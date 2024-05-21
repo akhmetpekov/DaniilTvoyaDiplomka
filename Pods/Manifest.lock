@@ -1,0 +1,20 @@
+PODS:
+  - iOSDropDown (0.4.0)
+  - SnapKit (5.6.0)
+
+DEPENDENCIES:
+  - iOSDropDown
+  - SnapKit
+
+SPEC REPOS:
+  trunk:
+    - iOSDropDown
+    - SnapKit
+
+SPEC CHECKSUMS:
+  iOSDropDown: ce9daa584eaa5567cafc1b633e3cc7eb6d9cea42
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+
+PODFILE CHECKSUM: 2c8686e513ff068536e72904623355acefb2b026
+
+COCOAPODS: 1.14.3
